@@ -1,0 +1,31 @@
+{
+  "name": "itvdn-landing",
+  "version": "1.0.0",
+  "description": "ITVDN Landing tut",
+  "main": "index.js",
+  "dependencies": {
+    "gulp4": "^4.0.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "github:gulpjs/gulp#4.0",
+    "gulp-pug": "^3.3.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^3.1.0",
+    "gulp.spritesmith": "^6.5.1",
+    "rimraf": "^2.6.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinjaDolphin/itvdn-landing.git"
+  },
+  "author": "NinjaD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NinjaDolphin/itvdn-landing/issues"
+  },
+  "homepage": "https://github.com/NinjaDolphin/itvdn-landing#readme"
+}
